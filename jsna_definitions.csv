@@ -1,0 +1,35 @@
+column_name,description
+Devon Town?,Filter for Devon Town geographies
+Area,"Area identifier for LSOA code, Devon Town, Ward name, Locality or Cluster name."
+IMD SCORE 2015,Relative deprivation in small areas in England https://www.gov.uk/government/statistics/english-indices-of-deprivation-2015
+IMD RANK 2004,Relative deprivation in small areas in England https://data.gov.uk/dataset/imd_2004
+Income SCORE 2004,"Proportion of the population experiencing deprivation relating to low income. The definition of low income used includes both those people that are out-of-work, and those that are in work but who have low earnings (and who satisfy the respective means tests)."
+Employment SCORE 2004,"Proportion of the working-age population in an area involuntarily excluded from the labour market. This includes people who would like to work but are unable to do so due to unemployment, sickness or disability, or caring responsibilities."
+Emergency Admissions 2008 to 2010,"Unplanned admissions to a hospital bed (excluding transfers) per 100,000 people."
+Elective Admissions 2008 to 2010,"Elective and planned admissions to a hospital bed (excluding transfers) per 100,000 people."
+A&E Attendances 2011,"Urgent care activity (A&E, walk-in centres and minor injury unit) per 100,000 people."
+Falls Admissions 2008 to 2010,"Admissions with accidental fall ICD10 W0 or W1 in any diagnosis field, per 100,00 people."
+Alcohol Admissions 2008 to 2010,"Admissions to hospitals with alcohol-specific cause, or alcohol-related cause (using 2008 definitions) per 100,00 people."
+LE at Birth 2002 to 2006,Average number of years a person would expect to live based on contemporary mortality rates.
+LE at 65 2002 to 2006,Average number of years a person would expect to live based on contemporary mortality rates.
+Birth Rate 2004 to 2008,Number of live births per 1000 females aged between 15 and 44 in the area.
+Claimant Count Rate 2005,Percentage of people claiming Department of Work and Pensions (DWP) benefits compared to the  working age (16 to 64) population.
+Fuel Poverty 2011,"Percentage of households that experience fuel poverty based on the ""low income, high cost"" methodology, where required fuel costs are above the national average and where spending that amount would be left with a residual income below the poverty line"
+Working Age Benefits 2001,Percentage of people claiming Department of Work and Pensions (DWP) benefits compared to the  working age (16 to 64) population.
+ESA or Incapacity Benefit 2001,Percentage of people claiming Employment Support Allowance (ESA) or incapacity benefits compared to the  working age (16 to 64) population.
+Carers 2001,Percentage of people receiving benefits who are in the carers client group.
+Disabled 2001,Percentage of people receiving benefits who are in the disabled client group.
+Benefits 16 to 24 2001,Percentage of people receiving benefits who are aged between 16 and 24.
+KSI 2008-10,"Number of people killed or seriously injured on the roads, per 100,000 resident population."
+GCSE 2013,"Number of pupils at the end of Key Stage 4 in schools maintained by the local education authority, achieving five or more GCSEs above grade C or equivalent."
+MASH 2012,"Number of enquiries to the MASH as a rate per 1,000 people aged 0 to 17."
+CIN 2014,"Number of children unlikely to reach or maintain a satisfactory level of health, as a percentage of all persons aged 0 to 24."
+EAL 2011,"Number of pupils (primary and secondary) for whom English is an additional language, as a percentage of all pupils."
+SEN 2011,"Number of children in any special education needs category, as a percentage of all pupils."
+Ofsted 2013,Percentage of primary and secondary school pupils in an area who attend a school rated as good or outstanding.
+DAF Assessments 2015,Number of Early Help DAF assessments undertaken as a percentage of all persons aged 0 to 24 in the area.
+LD Accommodation 2011-12,Proportion of all adults with a learning disability known to the council who are recorded as living In their own home or with their family. 
+Care Home Admissions 2011-12,"Number of permanent admissions to residential and nursing care homes in the area, per 100,000 population aged 65 and over."
+S-T Support Outcomes 2014-15,Proportion of new adult social care service uses receiving a short-term service during the year.
+NEETS 2013,"Number of 16 to 18 year olds not in education, employment or training."
+IAPT 2015,"Referrals to the Improving Access to Physical Therapies (IAPT) programme, per 100,000 population aged 16 and over."

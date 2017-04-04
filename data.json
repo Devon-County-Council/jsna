@@ -1,0 +1,18 @@
+[
+ {"title": "Devon Community Profiles 2016",
+  "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "publisher": {"name": "Devon County Council", "mbox": "publichealth@devon.gov.uk"},
+  "keyword": {"health", "deprivation", "education"},
+  "landingPage": "https://new.devon.gov.uk/factsandfigures/open-data/",
+  "frequency": "[R/P1Y]",
+  "references": "http://www.devonhealthandwellbeing.org.uk/jsna/about/",
+  "distribution": [
+    {
+      "downloadURL": "https://raw.githubusercontent.com/Devon-County-Council/jsna/master/jsna%20stats%20rank.csv",
+      "title": "jsna stats rank",
+      "format": "text/csv"
+    }]
+ },
+ {"title": "JSNA community profile statistics, ranked - 2016"
+ }
+]
