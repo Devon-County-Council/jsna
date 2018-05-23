@@ -1,4 +1,4 @@
-Area,Exeter A&E,Barnstaple A&E,Torbay A&E,Plymouth A&E,Local MIU/WIC,Outside Devon,Total
+﻿Area,RD&E Exeter Hospital,Barnstaple Hospital,Torbay Hospital,Plymouth Hospital,Community Hospital,Outside Devon,Total
 E92000001,,,,,,,
 E12000009,,,,,,,
 E01015023,2,0,5,543,154,25,729
@@ -988,7 +988,7 @@ CHSCTTEIGN,250,2,1369,70,1158,64,2913
 CHSCTTIVERTON,4466,188,39,20,7942,647,13302
 CHSCTTORRINGTON,526,4930,29,211,797,1640,8133
 CHSCTTOTNES,21,2,987,43,895,93,2041
-Eastern,,,,,,,
-Northern,,,,,,,
-Southern,,,,,,,
-Western,,,,,,,
+Eastern,79051,605,1187,396,41166,6031,128436
+Northern,1620,37299,116,346,9691,2989,52061
+Southern,1386,28,17512,351,8452,756,28485
+Western,383,100,2123,70710,38854,4055,116225
