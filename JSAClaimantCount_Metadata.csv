@@ -1,6 +1,6 @@
 ﻿Metadata Field,Metadata
 Source,Nomis
-Source URL,https://www.nomisweb.co.uk/
+Source URL,https://www.nomisweb.co.uk/query/select/getdatasetbytheme.asp?theme=72
 Licence,Open Government Licence
 Licence URL,http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
-Notes,Data relate to April of each year
+Notes,Data relate to April of each year.  Dateset is Claimant Count, which include Job Seekers Allowance as Universal Credit.
