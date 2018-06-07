@@ -1,0 +1,10 @@
+Source,Source URL,Licence,Licence URL,Numerator,Denominator,Notes
+Hospital Episode Statistics - Admitted Patient Care,https://digital.nhs.uk/data-and-information/publications/statistical/hospital-episode-statistics-for-admitted-patient-care-outpatient-and-accident-and-emergency-data,NHS Digital,https://digital.nhs.uk/data-and-information/data-tools-and-services/data-services/hospital-episode-statistics,Emergency admissions to hospital,Population,"Direct Age Standardised Rate (DASR) per 100,000 population.
+
+SQL WHERE clause:
+where admimeth in ('21', '22', '23', '24', '25', '28', '2A', '2B', '2C', '2D')
+and epiorder = '1'
+and epistat = '3'
+and classpat ='1'
+and epitype = '1'
+and sex in ('1', '2')"
