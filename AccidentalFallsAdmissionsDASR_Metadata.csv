@@ -1,5 +1,10 @@
-Source,Source URL,Licence,Licence URL,Numerator,Denominator,Notes
-Hospital Episode Statistics - Admitted Patient Care,https://digital.nhs.uk/data-and-information/publications/statistical/hospital-episode-statistics-for-admitted-patient-care-outpatient-and-accident-and-emergency-data,NHS Digital,https://digital.nhs.uk/data-and-information/data-tools-and-services/data-services/hospital-episode-statistics,Admissions to hospital realting to accidental falls,Population,"Direct Age Standardised Rate (DASR) per 100,000 population.
+Source,Hospital Episode Statistics - Admitted Patient Care
+Source URL,https://digital.nhs.uk/data-and-information/publications/statistical/hospital-episode-statistics-for-admitted-patient-care-outpatient-and-accident-and-emergency-data
+Licence,NHS Digital
+Licence URL,https://digital.nhs.uk/data-and-information/data-tools-and-services/data-services/hospital-episode-statistics
+Numerator,Admissions to hospital realting to accidental falls
+Denominator,Population
+Notes,"Direct Age Standardised Rate (DASR) per 100,000 population.
 
 SQL WHERE clause:
 WHERE DIAG_3_CONCAT LIKE '%|W[0-1]%'

@@ -1,2 +1,7 @@
-Source,Source URL,Licence,Licence URL,Numerator,Denominator,Notes
-Hospital Episode Statistics - Accident and Emergency,https://digital.nhs.uk/data-and-information/publications/statistical/hospital-episode-statistics-for-admitted-patient-care-outpatient-and-accident-and-emergency-data,NHS Digital,https://digital.nhs.uk/data-and-information/data-tools-and-services/data-services/hospital-episode-statistics,"Urgent attendances at hospital ((A&E, walk-in centres and minor injury unit)",Population,"Direct Age Standardised Rate (DASR) per 100,000 population."
+Source,"Hospital Episode Statistics - Accident and Emergency, NHS Digital"
+Source URL,https://digital.nhs.uk/data-and-information/publications/statistical/hospital-episode-statistics-for-admitted-patient-care-outpatient-and-accident-and-emergency-data
+Licence,Open Government Licence
+Licence URL,http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+Numerator,"Urgent attendances at hospital ((A&E, walk-in centres and minor injury unit)"
+Denominator,Population
+Notes,"Direct Age Standardised Rate (DASR) per 100,000 population."

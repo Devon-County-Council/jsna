@@ -1,2 +1,7 @@
-Source,Source URL,Licence,Licence URL,Numerator,Denominator,Notes
-Office for National Statistics,https://www.nomisweb.co.uk/,Open Government Licence v3.0,https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/,"Households experiencing fuel poverty based on the ""Low income, high cost"" methodology",Local household totals,Crude rate expressed as a percentage
+Source,Office for National Statistics
+Source URL,https://www.nomisweb.co.uk/
+Licence,Open Government Licence v3.0
+Licence URL,https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+Numerator,"Households experiencing fuel poverty based on the ""Low income, high cost"" methodology"
+Denominator,Local household totals
+Notes,Crude rate expressed as a percentage

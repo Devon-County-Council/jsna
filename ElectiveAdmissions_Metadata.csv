@@ -1,5 +1,10 @@
-Source,Source URL,Licence,Licence URL,Numerator,Denominator,Notes
-Hospital Episode Statistics - Admitted Patient Care,https://digital.nhs.uk/data-and-information/publications/statistical/hospital-episode-statistics-for-admitted-patient-care-outpatient-and-accident-and-emergency-data,NHS Digital,https://digital.nhs.uk/data-and-information/data-tools-and-services/data-services/hospital-episode-statistics,Elective admissions to hospital,Population,"SQL WHERE clause:
+Source,"Hospital Episode Statistics - Admitted Patient Care, NHS Digital"
+Source URL,https://digital.nhs.uk/data-and-information/publications/statistical/hospital-episode-statistics-for-admitted-patient-care-outpatient-and-accident-and-emergency-data
+Licence,Open Government Licence
+Licence URL,http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+Numerator,Elective admissions to hospital
+Denominator,Population
+Notes,"SQL WHERE clause:
 where admimeth in ('11', '12', '13')
 and epiorder = '1'
 and epistat = '3'

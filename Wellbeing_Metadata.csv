@@ -1,2 +1,7 @@
-Source,Source URL,Licence,Licence URL,Numerator,Denominator,Notes
-Self-reported wellbeing 2011-2012,https://data.england.nhs.uk/dataset/phe-indicator-22301,,,Estimated number of people with a low satisfaction score,Local population,"National survey data is applied to the local population, giving an estimate."
+Source,Self-reported wellbeing 2011-2012
+Source URL,https://data.england.nhs.uk/dataset/phe-indicator-22301
+Licence,Open Government Licence
+Licence URL,http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+Numerator,Estimated number of people with a low satisfaction score
+Denominator,Local population
+Notes,"National survey data is applied to the local population, giving an estimate."

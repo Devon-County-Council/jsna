@@ -1,2 +1,7 @@
-Source,Source URL,Licence,Licence URL,Numerator,Denominator,Notes
-"Health Survey for England, 2016",https://digital.nhs.uk/data-and-information/publications/statistical/health-survey-for-england/health-survey-for-england-2016,,,Estimate of number of people with a BMI of 30 and over,Local population,National estimates have been applied to the local population
+Source,"Health Survey for England, 2016, NHS Digital"
+Source URL,https://digital.nhs.uk/data-and-information/publications/statistical/health-survey-for-england/health-survey-for-england-2016
+Licence,Open Government Licence
+Licence URL,http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+Numerator,Estimate of number of people with a BMI of 30 and over
+Denominator,Local population
+Notes,National estimates have been applied to the local population

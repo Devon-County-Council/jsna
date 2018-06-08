@@ -1,2 +1,4 @@
-Source,Source URL,Licence,Licence URL,Numerator,Denominator,Notes
-NHS D - Adult Social Care Outcomes Framework (ASCOF),https://digital.nhs.uk/data-and-information/publications/clinical-indicators/adult-social-care-outcomes-framework-ascof/archive,,,Number of adults with a learning disability who live in their own home or with their family,Number of adults with a learning disability,
+Source,NHS D - Adult Social Care Outcomes Framework (ASCOF)
+Source URL,https://digital.nhs.uk/data-and-information/publications/clinical-indicators/adult-social-care-outcomes-framework-ascof/archive
+Numerator,Number of adults with a learning disability who live in their own home or with their family
+Denominator,Number of adults with a learning disability

@@ -1,2 +1,7 @@
-Source,Source URL,Licence,Licence URL,Numerator,Denominator,Notes
-NHS D - Adult Social Care Outcomes Framework (ASCOF),https://digital.nhs.uk/data-and-information/publications/clinical-indicators/adult-social-care-outcomes-framework-ascof/archive,,,Number of supported older people (aged 65 and over) whose long-term support needs were met by a change of setting to residential and nursing care during the period,Number of people aged 65 and over,"Crude rate per 100,000 people aged 65 and over"
+Source,"NHS D - Adult Social Care Outcomes Framework (ASCOF), NHS Digital"
+Source URL,https://digital.nhs.uk/data-and-information/publications/clinical-indicators/adult-social-care-outcomes-framework-ascof/archive
+Licence,Open Government Licence
+Licence URL,http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+Numerator,Number of supported older people (aged 65 and over) whose long-term support needs were met by a change of setting to residential and nursing care during the period
+Denominator,Number of people aged 65 and over
+Notes,"Crude rate per 100,000 people aged 65 and over"

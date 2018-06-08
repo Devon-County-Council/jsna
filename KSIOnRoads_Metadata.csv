@@ -1,2 +1,7 @@
-Source,Source URL,Licence,Licence URL,Numerator,Denominator,Notes
-NI 047 - People killed or seriously injured in road traffic accidents,https://data.gov.uk/dataset/01cde42d-30fd-4dec-8b49-c24e450b934d/ni-047-people-killed-or-seriously-injured-in-road-traffic-accidents,Open Government Licence v3.0,https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/,People killed or seriously injured on the roads,Local population,"Crude rate expressed per 100,000 resident population"
+Source,NI 047 - People killed or seriously injured in road traffic accidents
+Source URL,https://data.gov.uk/dataset/01cde42d-30fd-4dec-8b49-c24e450b934d/ni-047-people-killed-or-seriously-injured-in-road-traffic-accidents
+Licence,Open Government Licence
+Licence URL,https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+Numerator,People killed or seriously injured on the roads
+Denominator,Local population
+Notes,"Crude rate expressed per 100,000 resident population"

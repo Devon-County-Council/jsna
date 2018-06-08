@@ -1,2 +1,6 @@
-Source,Source URL,Licence,Licence URL,Numerator,Denominator,Notes
-NHS D - Adult Social Care Outcomes Framework (ASCOF),https://digital.nhs.uk/data-and-information/publications/clinical-indicators/adult-social-care-outcomes-framework-ascof/archive,,,Number of new adult social care service users receiving a short-term service during the period for whom the outcome of the service was either no ongoing support or support at a lower level,Number of new adult social care service users receiving a short-term service during the period,
+Source,"NHS D - Adult Social Care Outcomes Framework (ASCOF), NHS Digital"
+Source URL,https://digital.nhs.uk/data-and-information/publications/clinical-indicators/adult-social-care-outcomes-framework-ascof/archive
+Licence,Open Government Licence
+Licence URL,http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+Numerator,Number of new adult social care service users receiving a short-term service during the period for whom the outcome of the service was either no ongoing support or support at a lower level
+Denominator,Number of new adult social care service users receiving a short-term service during the period

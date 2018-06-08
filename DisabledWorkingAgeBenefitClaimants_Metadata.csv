@@ -1,2 +1,7 @@
-Source,Source URL,Licence,Licence URL,Numerator,Denominator,Notes
-Office for National Statistics,https://www.nomisweb.co.uk/,Open Government Licence v3.0,https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/,Number of claimants aged 16 to 64,Local population aged 16 to 64,Crude rate expressed as a percentage
+Source,Office for National Statistics
+Source URL,https://www.nomisweb.co.uk/
+Licence,Open Government Licence v3.0
+Licence URL,https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+Numerator,Number of claimants aged 16 to 64
+Denominator,Local population aged 16 to 64
+Notes,Crude rate expressed as a percentage
