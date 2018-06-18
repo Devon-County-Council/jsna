@@ -988,7 +988,7 @@ CHSCTTEIGN,Teign Valley and South Dartmoor CHSCT,CHSCT,E07000045,3,Southern
 CHSCTTIVERTON,Tiverton CHSCT,CHSCT,E07000042,3,Eastern
 CHSCTTORRINGTON,Torrington and Holsworthy CHSCT,CHSCT,E07000046,2,Northern
 CHSCTTOTNES,Totnes and Dartmouth CHSCT,CHSCT,E07000044,3,Southern
-Eastern,Eastern LCP,Local Care Partnership,E10000008,,
-Northern,Northern LCP,Local Care Partnership,E10000008,,
-Southern,Southern LCP,Local Care Partnership,E10000008,,
-Western,Western LCP,Local Care Partnership,E10000008,,
+Eastern,Eastern Locality,Locality Area,E10000008,,
+Northern,Northern Locality,Locality Area,E10000008,,
+Southern,Southern Locality,Locality Area,E10000008,,
+Western,Western Locality,Locality Area,E10000008,,
