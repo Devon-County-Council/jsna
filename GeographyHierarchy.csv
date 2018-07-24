@@ -864,35 +864,35 @@ E02003169,Torbay 016,MSOA,E06000027,4,Southern
 E02003170,Torbay 017,MSOA,E06000027,2,Southern
 E02003171,Torbay 018,MSOA,E06000027,2,Southern
 E02006840,Torbay 019,MSOA,E06000027,3,Soutern
-TOWN01,Ashburton-Buckfastleigh,Town area,E10000008,3,Southern
+TOWN01,Ashburton-Buckfastleigh,Town area,E07000045,3,Southern
 TOWN02,Axminster,Town area,E07000040,3,Eastern
-TOWN03,Barnstaple,Town area,E10000008,3,Northern
-TOWN04,Bideford-Northam,Town area,E10000008,3,Northern
-TOWN05,Braunton,Town area,E10000008,4,Northern
-TOWN06,Crediton,Town area,E10000008,3,Eastern
-TOWN07,Cullompton,Town area,E10000008,4,Eastern
-TOWN08,Dartmouth,Town area,E10000008,3,Southern
-TOWN09,Dawlish,Town area,E10000008,3,
-TOWN10,Exeter (Wider),Town area,E10000008,3,Eastern
-TOWN11,Exmouth,Town area,E10000008,4,Eastern
-TOWN12,Great Torrington,Town area,E10000008,3,Northern
-TOWN13,Holsworthy,Town area,E10000008,2,Northern
-TOWN14,Honiton,Town area,E10000008,3,Eastern
-TOWN15,Ilfracombe,Town area,E10000008,2,Northern
-TOWN16,Ivybridge,Town area,E10000008,4,Western
-TOWN17,Kingsbridge,Town area,E10000008,3,
-TOWN18,Lynton-Lynmouth,Town area,E10000008,2,Northern
-TOWN19,Moretonhampstead,Town area,E10000008,3,
-TOWN20,Newton Abbot,Town area,E10000008,3,Southern
-TOWN21,Okehampton,Town area,E10000008,3,Eastern
-TOWN22,Ottery St Mary,Town area,E10000008,4,Eastern
-TOWN23,Seaton,Town area,E10000008,4,Eastern
-TOWN24,Sidmouth,Town area,E10000008,4,Eastern
-TOWN25,South Molton,Town area,E10000008,3,Northern
-TOWN26,Tavistock,Town area,E10000008,3,Western
-TOWN27,Teignmouth,Town area,E10000008,3,Southern
-TOWN28,Tiverton,Town area,E10000008,3,Eastern
-TOWN29,Totnes,Town area,E10000008,3,Southern
+TOWN03,Barnstaple,Town area,E07000043,3,Northern
+TOWN04,Bideford-Northam,Town area,E07000046,3,Northern
+TOWN05,Braunton,Town area,E07000043,4,Northern
+TOWN06,Crediton,Town area,E07000042,3,Eastern
+TOWN07,Cullompton,Town area,E07000042,4,Eastern
+TOWN08,Dartmouth,Town area,E07000044,3,Southern
+TOWN09,Dawlish,Town area,E07000045,3,
+TOWN10,Exeter (Wider),Town area,E07000041,3,Eastern
+TOWN11,Exmouth,Town area,E07000040,4,Eastern
+TOWN12,Great Torrington,Town area,E07000046,3,Northern
+TOWN13,Holsworthy,Town area,E07000046,2,Northern
+TOWN14,Honiton,Town area,E07000040,3,Eastern
+TOWN15,Ilfracombe,Town area,E07000043,2,Northern
+TOWN16,Ivybridge,Town area,E07000044,4,Western
+TOWN17,Kingsbridge,Town area,E07000044,3,
+TOWN18,Lynton-Lynmouth,Town area,E07000043,2,Northern
+TOWN19,Moretonhampstead,Town area,E07000045,3,
+TOWN20,Newton Abbot,Town area,E07000045,3,Southern
+TOWN21,Okehampton,Town area,E07000047,3,Eastern
+TOWN22,Ottery St Mary,Town area,E07000040,4,Eastern
+TOWN23,Seaton,Town area,E07000040,4,Eastern
+TOWN24,Sidmouth,Town area,E07000040,4,Eastern
+TOWN25,South Molton,Town area,E07000043,3,Northern
+TOWN26,Tavistock,Town area,E07000047,3,Western
+TOWN27,Teignmouth,Town area,E07000045,3,Southern
+TOWN28,Tiverton,Town area,E07000042,3,Eastern
+TOWN29,Totnes,Town area,E07000044,3,Southern
 DIV1,Alphington & Cowick ED,Electoral Division,E07000041,3,Eastern
 DIV2,Ashburton & Buckfastleigh ED,Electoral Division,E07000045,3,Southern
 DIV3,Axminster ED,Electoral Division,E07000040,4,Eastern
