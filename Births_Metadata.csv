@@ -1,7 +1,4 @@
-Source,ONS Births
-Source URL,https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datalist?%3Auri=peoplepopulationandcommunity%2Fbirthsdeathsandmarriages%2Flivebirths%2Fdatalist&size=50
-Licence,Open Government Licence
-Licence URL,http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+Source,Annual births file, NHS Digital &copy; 2018
 Numerator,Live births
 Denominator,Female population aged between 15 and 44
 Notes,"Crude rate expressed per 1,000 females aged between 15 and 44."
