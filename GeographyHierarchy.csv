@@ -1,254 +1,4 @@
 ﻿Area,Label,Type,Parent,IMDQuintile,LocalCarePartnertship,Description
-E92000001,England,Country,,,,Country
-E12000009,South West,Region,E92000001,,,Region
-E01015023,Plymouth 003A,LSOA,E06000026,1,Western,LSOA in Plymouth
-E01015024,Plymouth 004A,LSOA,E06000026,3,Western,LSOA in Plymouth
-E01015025,Plymouth 001A,LSOA,E06000026,5,Western,LSOA in Plymouth
-E01015026,Plymouth 003B,LSOA,E06000026,1,Western,LSOA in Plymouth
-E01015027,Plymouth 002A,LSOA,E06000026,3,Western,LSOA in Plymouth
-E01015028,Plymouth 003C,LSOA,E06000026,1,Western,LSOA in Plymouth
-E01015029,Plymouth 008A,LSOA,E06000026,2,Western,LSOA in Plymouth
-E01015030,Plymouth 007A,LSOA,E06000026,1,Western,LSOA in Plymouth
-E01015031,Plymouth 023A,LSOA,E06000026,2,Western,LSOA in Plymouth
-E01015032,Plymouth 023B,LSOA,E06000026,2,Western,LSOA in Plymouth
-E01015033,Plymouth 016A,LSOA,E06000026,5,Western,LSOA in Plymouth
-E01015034,Plymouth 016B,LSOA,E06000026,5,Western,LSOA in Plymouth
-E01015035,Plymouth 012A,LSOA,E06000026,4,Western,LSOA in Plymouth
-E01015036,Plymouth 016C,LSOA,E06000026,4,Western,LSOA in Plymouth
-E01015037,Plymouth 012B,LSOA,E06000026,3,Western,LSOA in Plymouth
-E01015038,Plymouth 016D,LSOA,E06000026,4,Western,LSOA in Plymouth
-E01015039,Plymouth 014A,LSOA,E06000026,3,Western,LSOA in Plymouth
-E01015040,Plymouth 014B,LSOA,E06000026,1,Western,LSOA in Plymouth
-E01015041,Plymouth 014C,LSOA,E06000026,2,Western,LSOA in Plymouth
-E01015042,Plymouth 020A,LSOA,E06000026,2,Western,LSOA in Plymouth
-E01015043,Plymouth 026A,LSOA,E06000026,1,Western,LSOA in Plymouth
-E01015044,Plymouth 020B,LSOA,E06000026,1,Western,LSOA in Plymouth
-E01015045,Plymouth 026B,LSOA,E06000026,1,Western,LSOA in Plymouth
-E01015046,Plymouth 026C,LSOA,E06000026,1,Western,LSOA in Plymouth
-E01015047,Plymouth 026D,LSOA,E06000026,1,Western,LSOA in Plymouth
-E01015048,Plymouth 026E,LSOA,E06000026,1,Western,LSOA in Plymouth
-E01015049,Plymouth 023C,LSOA,E06000026,3,Western,LSOA in Plymouth
-E01015050,Plymouth 023D,LSOA,E06000026,2,Western,LSOA in Plymouth
-E01015051,Plymouth 023E,LSOA,E06000026,3,Western,LSOA in Plymouth
-E01015052,Plymouth 028A,LSOA,E06000026,1,Western,LSOA in Plymouth
-E01015053,Plymouth 027A,LSOA,E06000026,1,Western,LSOA in Plymouth
-E01015054,Plymouth 027B,LSOA,E06000026,2,Western,LSOA in Plymouth
-E01015055,Plymouth 021A,LSOA,E06000026,1,Western,LSOA in Plymouth
-E01015056,Plymouth 021B,LSOA,E06000026,2,Western,LSOA in Plymouth
-E01015057,Plymouth 021C,LSOA,E06000026,1,Western,LSOA in Plymouth
-E01015058,Plymouth 012C,LSOA,E06000026,1,Western,LSOA in Plymouth
-E01015059,Plymouth 021D,LSOA,E06000026,2,Western,LSOA in Plymouth
-E01015060,Plymouth 021E,LSOA,E06000026,2,Western,LSOA in Plymouth
-E01015061,Plymouth 025A,LSOA,E06000026,2,Western,LSOA in Plymouth
-E01015062,Plymouth 025B,LSOA,E06000026,3,Western,LSOA in Plymouth
-E01015063,Plymouth 010A,LSOA,E06000026,2,Western,LSOA in Plymouth
-E01015064,Plymouth 008B,LSOA,E06000026,5,Western,LSOA in Plymouth
-E01015065,Plymouth 008C,LSOA,E06000026,4,Western,LSOA in Plymouth
-E01015066,Plymouth 012D,LSOA,E06000026,4,Western,LSOA in Plymouth
-E01015067,Plymouth 012E,LSOA,E06000026,5,Western,LSOA in Plymouth
-E01015068,Plymouth 010B,LSOA,E06000026,4,Western,LSOA in Plymouth
-E01015069,Plymouth 010C,LSOA,E06000026,2,Western,LSOA in Plymouth
-E01015070,Plymouth 007B,LSOA,E06000026,3,Western,LSOA in Plymouth
-E01015071,Plymouth 008D,LSOA,E06000026,2,Western,LSOA in Plymouth
-E01015072,Plymouth 013A,LSOA,E06000026,1,Western,LSOA in Plymouth
-E01015073,Plymouth 013B,LSOA,E06000026,1,Western,LSOA in Plymouth
-E01015074,Plymouth 011A,LSOA,E06000026,1,Western,LSOA in Plymouth
-E01015075,Plymouth 014D,LSOA,E06000026,1,Western,LSOA in Plymouth
-E01015076,Plymouth 009A,LSOA,E06000026,3,Western,LSOA in Plymouth
-E01015077,Plymouth 011B,LSOA,E06000026,2,Western,LSOA in Plymouth
-E01015078,Plymouth 013C,LSOA,E06000026,1,Western,LSOA in Plymouth
-E01015079,Plymouth 011C,LSOA,E06000026,3,Western,LSOA in Plymouth
-E01015080,Plymouth 013D,LSOA,E06000026,1,Western,LSOA in Plymouth
-E01015081,Plymouth 007C,LSOA,E06000026,1,Western,LSOA in Plymouth
-E01015082,Plymouth 004B,LSOA,E06000026,1,Western,LSOA in Plymouth
-E01015083,Plymouth 004C,LSOA,E06000026,1,Western,LSOA in Plymouth
-E01015084,Plymouth 004D,LSOA,E06000026,2,Western,LSOA in Plymouth
-E01015085,Plymouth 006A,LSOA,E06000026,2,Western,LSOA in Plymouth
-E01015086,Plymouth 007D,LSOA,E06000026,1,Western,LSOA in Plymouth
-E01015087,Plymouth 006B,LSOA,E06000026,1,Western,LSOA in Plymouth
-E01015088,Plymouth 006C,LSOA,E06000026,1,Western,LSOA in Plymouth
-E01015089,Plymouth 007E,LSOA,E06000026,2,Western,LSOA in Plymouth
-E01015090,Plymouth 005A,LSOA,E06000026,4,Western,LSOA in Plymouth
-E01015091,Plymouth 005B,LSOA,E06000026,3,Western,LSOA in Plymouth
-E01015092,Plymouth 005C,LSOA,E06000026,3,Western,LSOA in Plymouth
-E01015093,Plymouth 005D,LSOA,E06000026,2,Western,LSOA in Plymouth
-E01015094,Plymouth 005E,LSOA,E06000026,2,Western,LSOA in Plymouth
-E01015095,Plymouth 010D,LSOA,E06000026,2,Western,LSOA in Plymouth
-E01015096,Plymouth 010E,LSOA,E06000026,1,Western,LSOA in Plymouth
-E01015097,Plymouth 001B,LSOA,E06000026,4,Western,LSOA in Plymouth
-E01015098,Plymouth 017A,LSOA,E06000026,4,Western,LSOA in Plymouth
-E01015099,Plymouth 017B,LSOA,E06000026,4,Western,LSOA in Plymouth
-E01015100,Plymouth 017C,LSOA,E06000026,4,Western,LSOA in Plymouth
-E01015101,Plymouth 016E,LSOA,E06000026,5,Western,LSOA in Plymouth
-E01015102,Plymouth 011D,LSOA,E06000026,3,Western,LSOA in Plymouth
-E01015103,Plymouth 017D,LSOA,E06000026,4,Western,LSOA in Plymouth
-E01015104,Plymouth 011E,LSOA,E06000026,5,Western,LSOA in Plymouth
-E01015105,Plymouth 017E,LSOA,E06000026,5,Western,LSOA in Plymouth
-E01015106,Plymouth 013E,LSOA,E06000026,3,Western,LSOA in Plymouth
-E01015107,Plymouth 018A,LSOA,E06000026,3,Western,LSOA in Plymouth
-E01015108,Plymouth 022A,LSOA,E06000026,4,Western,LSOA in Plymouth
-E01015109,Plymouth 022B,LSOA,E06000026,3,Western,LSOA in Plymouth
-E01015110,Plymouth 018B,LSOA,E06000026,5,Western,LSOA in Plymouth
-E01015111,Plymouth 018C,LSOA,E06000026,4,Western,LSOA in Plymouth
-E01015112,Plymouth 019A,LSOA,E06000026,4,Western,LSOA in Plymouth
-E01015113,Plymouth 019B,LSOA,E06000026,4,Western,LSOA in Plymouth
-E01015114,Plymouth 019C,LSOA,E06000026,4,Western,LSOA in Plymouth
-E01015115,Plymouth 022C,LSOA,E06000026,2,Western,LSOA in Plymouth
-E01015116,Plymouth 022D,LSOA,E06000026,3,Western,LSOA in Plymouth
-E01015117,Plymouth 022E,LSOA,E06000026,4,Western,LSOA in Plymouth
-E01015118,Plymouth 019D,LSOA,E06000026,5,Western,LSOA in Plymouth
-E01015119,Plymouth 018D,LSOA,E06000026,4,Western,LSOA in Plymouth
-E01015120,Plymouth 015A,LSOA,E06000026,4,Western,LSOA in Plymouth
-E01015121,Plymouth 015B,LSOA,E06000026,5,Western,LSOA in Plymouth
-E01015122,Plymouth 019E,LSOA,E06000026,4,Western,LSOA in Plymouth
-E01015123,Plymouth 015C,LSOA,E06000026,3,Western,LSOA in Plymouth
-E01015124,Plymouth 015D,LSOA,E06000026,4,Western,LSOA in Plymouth
-E01015125,Plymouth 015E,LSOA,E06000026,4,Western,LSOA in Plymouth
-E01015126,Plymouth 030A,LSOA,E06000026,5,Western,LSOA in Plymouth
-E01015127,Plymouth 030B,LSOA,E06000026,4,Western,LSOA in Plymouth
-E01015128,Plymouth 032A,LSOA,E06000026,4,Western,LSOA in Plymouth
-E01015129,Plymouth 032B,LSOA,E06000026,3,Western,LSOA in Plymouth
-E01015130,Plymouth 032C,LSOA,E06000026,5,Western,LSOA in Plymouth
-E01015131,Plymouth 030C,LSOA,E06000026,5,Western,LSOA in Plymouth
-E01015132,Plymouth 030D,LSOA,E06000026,3,Western,LSOA in Plymouth
-E01015133,Plymouth 030E,LSOA,E06000026,5,Western,LSOA in Plymouth
-E01015134,Plymouth 032D,LSOA,E06000026,4,Western,LSOA in Plymouth
-E01015135,Plymouth 031A,LSOA,E06000026,3,Western,LSOA in Plymouth
-E01015136,Plymouth 031B,LSOA,E06000026,3,Western,LSOA in Plymouth
-E01015137,Plymouth 031C,LSOA,E06000026,4,Western,LSOA in Plymouth
-E01015138,Plymouth 031D,LSOA,E06000026,4,Western,LSOA in Plymouth
-E01015139,Plymouth 031E,LSOA,E06000026,3,Western,LSOA in Plymouth
-E01015140,Plymouth 032E,LSOA,E06000026,5,Western,LSOA in Plymouth
-E01015141,Plymouth 031F,LSOA,E06000026,5,Western,LSOA in Plymouth
-E01015142,Plymouth 009B,LSOA,E06000026,2,Western,LSOA in Plymouth
-E01015143,Plymouth 009C,LSOA,E06000026,2,Western,LSOA in Plymouth
-E01015144,Plymouth 009D,LSOA,E06000026,1,Western,LSOA in Plymouth
-E01015145,Plymouth 014E,LSOA,E06000026,1,Western,LSOA in Plymouth
-E01015146,Plymouth 009E,LSOA,E06000026,1,Western,LSOA in Plymouth
-E01015147,Plymouth 006D,LSOA,E06000026,2,Western,LSOA in Plymouth
-E01015148,Plymouth 006E,LSOA,E06000026,2,Western,LSOA in Plymouth
-E01015149,Plymouth 009F,LSOA,E06000026,1,Western,LSOA in Plymouth
-E01015150,Plymouth 009G,LSOA,E06000026,2,Western,LSOA in Plymouth
-E01015151,Plymouth 029A,LSOA,E06000026,1,Western,LSOA in Plymouth
-E01015152,Plymouth 027C,LSOA,E06000026,1,Western,LSOA in Plymouth
-E01015153,Plymouth 029B,LSOA,E06000026,1,Western,LSOA in Plymouth
-E01015155,Plymouth 029C,LSOA,E06000026,1,Western,LSOA in Plymouth
-E01015156,Plymouth 027E,LSOA,E06000026,1,Western,LSOA in Plymouth
-E01015157,Plymouth 029D,LSOA,E06000026,1,Western,LSOA in Plymouth
-E01015158,Plymouth 029E,LSOA,E06000026,1,Western,LSOA in Plymouth
-E01015159,Plymouth 002B,LSOA,E06000026,2,Western,LSOA in Plymouth
-E01015160,Plymouth 001C,LSOA,E06000026,5,Western,LSOA in Plymouth
-E01015161,Plymouth 002C,LSOA,E06000026,2,Western,LSOA in Plymouth
-E01015162,Plymouth 002D,LSOA,E06000026,2,Western,LSOA in Plymouth
-E01015163,Plymouth 003D,LSOA,E06000026,3,Western,LSOA in Plymouth
-E01015164,Plymouth 001D,LSOA,E06000026,3,Western,LSOA in Plymouth
-E01015165,Plymouth 003E,LSOA,E06000026,4,Western,LSOA in Plymouth
-E01015166,Plymouth 002E,LSOA,E06000026,2,Western,LSOA in Plymouth
-E01015167,Plymouth 020C,LSOA,E06000026,2,Western,LSOA in Plymouth
-E01015168,Plymouth 020D,LSOA,E06000026,2,Western,LSOA in Plymouth
-E01015169,Plymouth 024A,LSOA,E06000026,2,Western,LSOA in Plymouth
-E01015170,Plymouth 024B,LSOA,E06000026,1,Western,LSOA in Plymouth
-E01015171,Plymouth 020E,LSOA,E06000026,1,Western,LSOA in Plymouth
-E01015172,Plymouth 029F,LSOA,E06000026,2,Western,LSOA in Plymouth
-E01015173,Plymouth 024C,LSOA,E06000026,2,Western,LSOA in Plymouth
-E01015174,Plymouth 024D,LSOA,E06000026,3,Western,LSOA in Plymouth
-E01015175,Plymouth 025C,LSOA,E06000026,2,Western,LSOA in Plymouth
-E01015176,Plymouth 021F,LSOA,E06000026,1,Western,LSOA in Plymouth
-E01015177,Plymouth 025D,LSOA,E06000026,2,Western,LSOA in Plymouth
-E01015178,Plymouth 025E,LSOA,E06000026,2,Western,LSOA in Plymouth
-E01015179,Plymouth 028B,LSOA,E06000026,3,Western,LSOA in Plymouth
-E01015180,Plymouth 028C,LSOA,E06000026,1,Western,LSOA in Plymouth
-E01015181,Plymouth 028D,LSOA,E06000026,1,Western,LSOA in Plymouth
-E01015182,Plymouth 028E,LSOA,E06000026,1,Western,LSOA in Plymouth
-E01015183,Torbay 017A,LSOA,E06000027,2,Southern,LSOA in Torbay
-E01015184,Torbay 017B,LSOA,E06000027,3,Southern,LSOA in Torbay
-E01015185,Torbay 017C,LSOA,E06000027,2,Southern,LSOA in Torbay
-E01015186,Torbay 017D,LSOA,E06000027,1,Southern,LSOA in Torbay
-E01015187,Torbay 017E,LSOA,E06000027,3,Southern,LSOA in Torbay
-E01015188,Torbay 017F,LSOA,E06000027,3,Southern,LSOA in Torbay
-E01015189,Torbay 017G,LSOA,E06000027,2,Southern,LSOA in Torbay
-E01015190,Torbay 013A,LSOA,E06000027,1,Southern,LSOA in Torbay
-E01015191,Torbay 013B,LSOA,E06000027,3,Southern,LSOA in Torbay
-E01015192,Torbay 013C,LSOA,E06000027,1,Southern,LSOA in Torbay
-E01015193,Torbay 013D,LSOA,E06000027,2,Southern,LSOA in Torbay
-E01015194,Torbay 013E,LSOA,E06000027,1,Southern,LSOA in Torbay
-E01015195,Torbay 013F,LSOA,E06000027,2,Southern,LSOA in Torbay
-E01015196,Torbay 013G,LSOA,E06000027,1,Southern,LSOA in Torbay
-E01015197,Torbay 016A,LSOA,E06000027,5,Southern,LSOA in Torbay
-E01015198,Torbay 016B,LSOA,E06000027,4,Southern,LSOA in Torbay
-E01015199,Torbay 016C,LSOA,E06000027,5,Southern,LSOA in Torbay
-E01015200,Torbay 016D,LSOA,E06000027,3,Southern,LSOA in Torbay
-E01015201,Torbay 016E,LSOA,E06000027,4,Southern,LSOA in Torbay
-E01015202,Torbay 012A,LSOA,E06000027,3,Southern,LSOA in Torbay
-E01015203,Torbay 012B,LSOA,E06000027,4,Southern,LSOA in Torbay
-E01015204,Torbay 012C,LSOA,E06000027,2,Southern,LSOA in Torbay
-E01015205,Torbay 012D,LSOA,E06000027,3,Southern,LSOA in Torbay
-E01015206,Torbay 012E,LSOA,E06000027,2,Southern,LSOA in Torbay
-E01015207,Torbay 009A,LSOA,E06000027,3,Southern,LSOA in Torbay
-E01015208,Torbay 019F,LSOA,E06000027,5,Southern,LSOA in Torbay
-E01015209,Torbay 019A,LSOA,E06000027,2,Southern,LSOA in Torbay
-E01015210,Torbay 007B,LSOA,E06000027,1,Southern,LSOA in Torbay
-E01015211,Torbay 009C,LSOA,E06000027,4,Southern,LSOA in Torbay
-E01015212,Torbay 007C,LSOA,E06000027,2,Southern,LSOA in Torbay
-E01015213,Torbay 007D,LSOA,E06000027,3,Southern,LSOA in Torbay
-E01015214,Torbay 006A,LSOA,E06000027,1,Southern,LSOA in Torbay
-E01015215,Torbay 006B,LSOA,E06000027,3,Southern,LSOA in Torbay
-E01015216,Torbay 006C,LSOA,E06000027,1,Southern,LSOA in Torbay
-E01015217,Torbay 008A,LSOA,E06000027,1,Southern,LSOA in Torbay
-E01015218,Torbay 006D,LSOA,E06000027,1,Southern,LSOA in Torbay
-E01015219,Torbay 015A,LSOA,E06000027,2,Southern,LSOA in Torbay
-E01015220,Torbay 015B,LSOA,E06000027,3,Southern,LSOA in Torbay
-E01015221,Torbay 015C,LSOA,E06000027,3,Southern,LSOA in Torbay
-E01015222,Torbay 015D,LSOA,E06000027,3,Southern,LSOA in Torbay
-E01015223,Torbay 015E,LSOA,E06000027,4,Southern,LSOA in Torbay
-E01015224,Torbay 011A,LSOA,E06000027,3,Southern,LSOA in Torbay
-E01015225,Torbay 011B,LSOA,E06000027,3,Southern,LSOA in Torbay
-E01015226,Torbay 011C,LSOA,E06000027,4,Southern,LSOA in Torbay
-E01015227,Torbay 011D,LSOA,E06000027,4,Southern,LSOA in Torbay
-E01015228,Torbay 011E,LSOA,E06000027,2,Southern,LSOA in Torbay
-E01015229,Torbay 014A,LSOA,E06000027,1,Southern,LSOA in Torbay
-E01015230,Torbay 011F,LSOA,E06000027,4,Southern,LSOA in Torbay
-E01015231,Torbay 014B,LSOA,E06000027,1,Southern,LSOA in Torbay
-E01015232,Torbay 014C,LSOA,E06000027,1,Southern,LSOA in Torbay
-E01015233,Torbay 014D,LSOA,E06000027,1,Southern,LSOA in Torbay
-E01015234,Torbay 014E,LSOA,E06000027,1,Southern,LSOA in Torbay
-E01015235,Torbay 014F,LSOA,E06000027,2,Southern,LSOA in Torbay
-E01015236,Torbay 002A,LSOA,E06000027,2,Southern,LSOA in Torbay
-E01015237,Torbay 002B,LSOA,E06000027,3,Southern,LSOA in Torbay
-E01015238,Torbay 002C,LSOA,E06000027,2,Southern,LSOA in Torbay
-E01015239,Torbay 002D,LSOA,E06000027,1,Southern,LSOA in Torbay
-E01015240,Torbay 005A,LSOA,E06000027,2,Southern,LSOA in Torbay
-E01015241,Torbay 005B,LSOA,E06000027,2,Southern,LSOA in Torbay
-E01015242,Torbay 005C,LSOA,E06000027,1,Southern,LSOA in Torbay
-E01015243,Torbay 005D,LSOA,E06000027,3,Southern,LSOA in Torbay
-E01015244,Torbay 018A,LSOA,E06000027,3,Southern,LSOA in Torbay
-E01015245,Torbay 018B,LSOA,E06000027,2,Southern,LSOA in Torbay
-E01015246,Torbay 018C,LSOA,E06000027,3,Southern,LSOA in Torbay
-E01015247,Torbay 018D,LSOA,E06000027,2,Southern,LSOA in Torbay
-E01015248,Torbay 018E,LSOA,E06000027,2,Southern,LSOA in Torbay
-E01015249,Torbay 003A,LSOA,E06000027,2,Southern,LSOA in Torbay
-E01015250,Torbay 003B,LSOA,E06000027,4,Southern,LSOA in Torbay
-E01015251,Torbay 003C,LSOA,E06000027,4,Southern,LSOA in Torbay
-E01015252,Torbay 003D,LSOA,E06000027,3,Southern,LSOA in Torbay
-E01015253,Torbay 003E,LSOA,E06000027,4,Southern,LSOA in Torbay
-E01015254,Torbay 003F,LSOA,E06000027,3,Southern,LSOA in Torbay
-E01015255,Torbay 008B,LSOA,E06000027,1,Southern,LSOA in Torbay
-E01015256,Torbay 008C,LSOA,E06000027,1,Southern,LSOA in Torbay
-E01015257,Torbay 004A,LSOA,E06000027,1,Southern,LSOA in Torbay
-E01015258,Torbay 004B,LSOA,E06000027,2,Southern,LSOA in Torbay
-E01015259,Torbay 004C,LSOA,E06000027,1,Southern,LSOA in Torbay
-E01015260,Torbay 004D,LSOA,E06000027,1,Southern,LSOA in Torbay
-E01015261,Torbay 008D,LSOA,E06000027,1,Southern,LSOA in Torbay
-E01015262,Torbay 001A,LSOA,E06000027,1,Southern,LSOA in Torbay
-E01015263,Torbay 001B,LSOA,E06000027,1,Southern,LSOA in Torbay
-E01015264,Torbay 001C,LSOA,E06000027,3,Southern,LSOA in Torbay
-E01015265,Torbay 001D,LSOA,E06000027,2,Southern,LSOA in Torbay
-E01015266,Torbay 001E,LSOA,E06000027,1,Southern,LSOA in Torbay
-E01015267,Torbay 010A,LSOA,E06000027,1,Southern,LSOA in Torbay
-E01015268,Torbay 010B,LSOA,E06000027,2,Southern,LSOA in Torbay
-E01015269,Torbay 010C,LSOA,E06000027,2,Southern,LSOA in Torbay
-E01015270,Torbay 010D,LSOA,E06000027,1,Southern,LSOA in Torbay
-E01015271,Torbay 010E,LSOA,E06000027,4,Southern,LSOA in Torbay
 E01019886,East Devon 005A,LSOA,E07000040,3,Eastern,"LSOA covering East of Axminster: Milbrook, Hawkchurch and surrounding areas"
 E01019887,East Devon 005B,LSOA,E07000040,3,Eastern,LSOA covering Axminster (East) and Foxhill
 E01019888,East Devon 005C,LSOA,E07000040,3,Eastern,LSOA covering Axminster (Central and West)
@@ -708,22 +458,254 @@ E01033233,Exeter 001F,LSOA,E07000041,5,Eastern,LSOA covering Exeter: Duryard - U
 E01033234,Exeter 011G,LSOA,E07000041,5,Eastern,LSOA covering Exeter: Digby and Sowton - Clyst Heath and Sowton
 E01033235,Exeter 015E,LSOA,E07000041,5,Eastern,LSOA covering Exeter: Topsham - High Street and Station Road areas
 E01033236,Exeter 015F,LSOA,E07000041,5,Eastern,"LSOA covering Exeter: Topsham - Victoria Road, Monmouth Street and Mount Howe areas"
-E07000040,East Devon,District,E10000008,4,Eastern,District council area in Devon
-E07000041,Exeter,District,E10000008,3,Eastern,District council area in Devon
-E07000042,Mid Devon,District,E10000008,3,Eastern,District council area in Devon
-E07000043,North Devon,District,E10000008,3,Northern,District council area in Devon
-E07000044,South Hams,District,E10000008,4,,District council area in Devon
-E07000045,Teignbridge,District,E10000008,3,,District council area in Devon
-E07000046,Torridge,District,E10000008,2,Northern,District council area in Devon
-E07000047,West Devon,District,E10000008,3,Western,District council area in Devon
-E10000008,Devon,County,E12000009,,,County Council area
-E06000026,Plymouth,Unitary,E12000009,,Western,Unitary Council area
-E06000027,Torbay,Unitary,E12000009,,Southern,Unitary Council area
-IMDQ1,Q1 - Most Deprived,IMD Quintile,,,,Deprivation quintile
-IMDQ2,Q2 - Above Average,IMD Quintile,,,,Deprivation quintile
-IMDQ3,Q3 - Average,IMD Quintile,,,,Deprivation quintile
-IMDQ4,Q4 - Below Average,IMD Quintile,,,,Deprivation quintile
-IMDQ5,Q5 - Least Deprived,IMD Quintile,,,,Deprivation quintile
+E01015023,Plymouth 003A,LSOA,E06000026,1,Western,LSOA in Plymouth
+E01015024,Plymouth 004A,LSOA,E06000026,3,Western,LSOA in Plymouth
+E01015025,Plymouth 001A,LSOA,E06000026,5,Western,LSOA in Plymouth
+E01015026,Plymouth 003B,LSOA,E06000026,1,Western,LSOA in Plymouth
+E01015027,Plymouth 002A,LSOA,E06000026,3,Western,LSOA in Plymouth
+E01015028,Plymouth 003C,LSOA,E06000026,1,Western,LSOA in Plymouth
+E01015029,Plymouth 008A,LSOA,E06000026,2,Western,LSOA in Plymouth
+E01015030,Plymouth 007A,LSOA,E06000026,1,Western,LSOA in Plymouth
+E01015031,Plymouth 023A,LSOA,E06000026,2,Western,LSOA in Plymouth
+E01015032,Plymouth 023B,LSOA,E06000026,2,Western,LSOA in Plymouth
+E01015033,Plymouth 016A,LSOA,E06000026,5,Western,LSOA in Plymouth
+E01015034,Plymouth 016B,LSOA,E06000026,5,Western,LSOA in Plymouth
+E01015035,Plymouth 012A,LSOA,E06000026,4,Western,LSOA in Plymouth
+E01015036,Plymouth 016C,LSOA,E06000026,4,Western,LSOA in Plymouth
+E01015037,Plymouth 012B,LSOA,E06000026,3,Western,LSOA in Plymouth
+E01015038,Plymouth 016D,LSOA,E06000026,4,Western,LSOA in Plymouth
+E01015039,Plymouth 014A,LSOA,E06000026,3,Western,LSOA in Plymouth
+E01015040,Plymouth 014B,LSOA,E06000026,1,Western,LSOA in Plymouth
+E01015041,Plymouth 014C,LSOA,E06000026,2,Western,LSOA in Plymouth
+E01015042,Plymouth 020A,LSOA,E06000026,2,Western,LSOA in Plymouth
+E01015043,Plymouth 026A,LSOA,E06000026,1,Western,LSOA in Plymouth
+E01015044,Plymouth 020B,LSOA,E06000026,1,Western,LSOA in Plymouth
+E01015045,Plymouth 026B,LSOA,E06000026,1,Western,LSOA in Plymouth
+E01015046,Plymouth 026C,LSOA,E06000026,1,Western,LSOA in Plymouth
+E01015047,Plymouth 026D,LSOA,E06000026,1,Western,LSOA in Plymouth
+E01015048,Plymouth 026E,LSOA,E06000026,1,Western,LSOA in Plymouth
+E01015049,Plymouth 023C,LSOA,E06000026,3,Western,LSOA in Plymouth
+E01015050,Plymouth 023D,LSOA,E06000026,2,Western,LSOA in Plymouth
+E01015051,Plymouth 023E,LSOA,E06000026,3,Western,LSOA in Plymouth
+E01015052,Plymouth 028A,LSOA,E06000026,1,Western,LSOA in Plymouth
+E01015053,Plymouth 027A,LSOA,E06000026,1,Western,LSOA in Plymouth
+E01015054,Plymouth 027B,LSOA,E06000026,2,Western,LSOA in Plymouth
+E01015055,Plymouth 021A,LSOA,E06000026,1,Western,LSOA in Plymouth
+E01015056,Plymouth 021B,LSOA,E06000026,2,Western,LSOA in Plymouth
+E01015057,Plymouth 021C,LSOA,E06000026,1,Western,LSOA in Plymouth
+E01015058,Plymouth 012C,LSOA,E06000026,1,Western,LSOA in Plymouth
+E01015059,Plymouth 021D,LSOA,E06000026,2,Western,LSOA in Plymouth
+E01015060,Plymouth 021E,LSOA,E06000026,2,Western,LSOA in Plymouth
+E01015061,Plymouth 025A,LSOA,E06000026,2,Western,LSOA in Plymouth
+E01015062,Plymouth 025B,LSOA,E06000026,3,Western,LSOA in Plymouth
+E01015063,Plymouth 010A,LSOA,E06000026,2,Western,LSOA in Plymouth
+E01015064,Plymouth 008B,LSOA,E06000026,5,Western,LSOA in Plymouth
+E01015065,Plymouth 008C,LSOA,E06000026,4,Western,LSOA in Plymouth
+E01015066,Plymouth 012D,LSOA,E06000026,4,Western,LSOA in Plymouth
+E01015067,Plymouth 012E,LSOA,E06000026,5,Western,LSOA in Plymouth
+E01015068,Plymouth 010B,LSOA,E06000026,4,Western,LSOA in Plymouth
+E01015069,Plymouth 010C,LSOA,E06000026,2,Western,LSOA in Plymouth
+E01015070,Plymouth 007B,LSOA,E06000026,3,Western,LSOA in Plymouth
+E01015071,Plymouth 008D,LSOA,E06000026,2,Western,LSOA in Plymouth
+E01015072,Plymouth 013A,LSOA,E06000026,1,Western,LSOA in Plymouth
+E01015073,Plymouth 013B,LSOA,E06000026,1,Western,LSOA in Plymouth
+E01015074,Plymouth 011A,LSOA,E06000026,1,Western,LSOA in Plymouth
+E01015075,Plymouth 014D,LSOA,E06000026,1,Western,LSOA in Plymouth
+E01015076,Plymouth 009A,LSOA,E06000026,3,Western,LSOA in Plymouth
+E01015077,Plymouth 011B,LSOA,E06000026,2,Western,LSOA in Plymouth
+E01015078,Plymouth 013C,LSOA,E06000026,1,Western,LSOA in Plymouth
+E01015079,Plymouth 011C,LSOA,E06000026,3,Western,LSOA in Plymouth
+E01015080,Plymouth 013D,LSOA,E06000026,1,Western,LSOA in Plymouth
+E01015081,Plymouth 007C,LSOA,E06000026,1,Western,LSOA in Plymouth
+E01015082,Plymouth 004B,LSOA,E06000026,1,Western,LSOA in Plymouth
+E01015083,Plymouth 004C,LSOA,E06000026,1,Western,LSOA in Plymouth
+E01015084,Plymouth 004D,LSOA,E06000026,2,Western,LSOA in Plymouth
+E01015085,Plymouth 006A,LSOA,E06000026,2,Western,LSOA in Plymouth
+E01015086,Plymouth 007D,LSOA,E06000026,1,Western,LSOA in Plymouth
+E01015087,Plymouth 006B,LSOA,E06000026,1,Western,LSOA in Plymouth
+E01015088,Plymouth 006C,LSOA,E06000026,1,Western,LSOA in Plymouth
+E01015089,Plymouth 007E,LSOA,E06000026,2,Western,LSOA in Plymouth
+E01015090,Plymouth 005A,LSOA,E06000026,4,Western,LSOA in Plymouth
+E01015091,Plymouth 005B,LSOA,E06000026,3,Western,LSOA in Plymouth
+E01015092,Plymouth 005C,LSOA,E06000026,3,Western,LSOA in Plymouth
+E01015093,Plymouth 005D,LSOA,E06000026,2,Western,LSOA in Plymouth
+E01015094,Plymouth 005E,LSOA,E06000026,2,Western,LSOA in Plymouth
+E01015095,Plymouth 010D,LSOA,E06000026,2,Western,LSOA in Plymouth
+E01015096,Plymouth 010E,LSOA,E06000026,1,Western,LSOA in Plymouth
+E01015097,Plymouth 001B,LSOA,E06000026,4,Western,LSOA in Plymouth
+E01015098,Plymouth 017A,LSOA,E06000026,4,Western,LSOA in Plymouth
+E01015099,Plymouth 017B,LSOA,E06000026,4,Western,LSOA in Plymouth
+E01015100,Plymouth 017C,LSOA,E06000026,4,Western,LSOA in Plymouth
+E01015101,Plymouth 016E,LSOA,E06000026,5,Western,LSOA in Plymouth
+E01015102,Plymouth 011D,LSOA,E06000026,3,Western,LSOA in Plymouth
+E01015103,Plymouth 017D,LSOA,E06000026,4,Western,LSOA in Plymouth
+E01015104,Plymouth 011E,LSOA,E06000026,5,Western,LSOA in Plymouth
+E01015105,Plymouth 017E,LSOA,E06000026,5,Western,LSOA in Plymouth
+E01015106,Plymouth 013E,LSOA,E06000026,3,Western,LSOA in Plymouth
+E01015107,Plymouth 018A,LSOA,E06000026,3,Western,LSOA in Plymouth
+E01015108,Plymouth 022A,LSOA,E06000026,4,Western,LSOA in Plymouth
+E01015109,Plymouth 022B,LSOA,E06000026,3,Western,LSOA in Plymouth
+E01015110,Plymouth 018B,LSOA,E06000026,5,Western,LSOA in Plymouth
+E01015111,Plymouth 018C,LSOA,E06000026,4,Western,LSOA in Plymouth
+E01015112,Plymouth 019A,LSOA,E06000026,4,Western,LSOA in Plymouth
+E01015113,Plymouth 019B,LSOA,E06000026,4,Western,LSOA in Plymouth
+E01015114,Plymouth 019C,LSOA,E06000026,4,Western,LSOA in Plymouth
+E01015115,Plymouth 022C,LSOA,E06000026,2,Western,LSOA in Plymouth
+E01015116,Plymouth 022D,LSOA,E06000026,3,Western,LSOA in Plymouth
+E01015117,Plymouth 022E,LSOA,E06000026,4,Western,LSOA in Plymouth
+E01015118,Plymouth 019D,LSOA,E06000026,5,Western,LSOA in Plymouth
+E01015119,Plymouth 018D,LSOA,E06000026,4,Western,LSOA in Plymouth
+E01015120,Plymouth 015A,LSOA,E06000026,4,Western,LSOA in Plymouth
+E01015121,Plymouth 015B,LSOA,E06000026,5,Western,LSOA in Plymouth
+E01015122,Plymouth 019E,LSOA,E06000026,4,Western,LSOA in Plymouth
+E01015123,Plymouth 015C,LSOA,E06000026,3,Western,LSOA in Plymouth
+E01015124,Plymouth 015D,LSOA,E06000026,4,Western,LSOA in Plymouth
+E01015125,Plymouth 015E,LSOA,E06000026,4,Western,LSOA in Plymouth
+E01015126,Plymouth 030A,LSOA,E06000026,5,Western,LSOA in Plymouth
+E01015127,Plymouth 030B,LSOA,E06000026,4,Western,LSOA in Plymouth
+E01015128,Plymouth 032A,LSOA,E06000026,4,Western,LSOA in Plymouth
+E01015129,Plymouth 032B,LSOA,E06000026,3,Western,LSOA in Plymouth
+E01015130,Plymouth 032C,LSOA,E06000026,5,Western,LSOA in Plymouth
+E01015131,Plymouth 030C,LSOA,E06000026,5,Western,LSOA in Plymouth
+E01015132,Plymouth 030D,LSOA,E06000026,3,Western,LSOA in Plymouth
+E01015133,Plymouth 030E,LSOA,E06000026,5,Western,LSOA in Plymouth
+E01015134,Plymouth 032D,LSOA,E06000026,4,Western,LSOA in Plymouth
+E01015135,Plymouth 031A,LSOA,E06000026,3,Western,LSOA in Plymouth
+E01015136,Plymouth 031B,LSOA,E06000026,3,Western,LSOA in Plymouth
+E01015137,Plymouth 031C,LSOA,E06000026,4,Western,LSOA in Plymouth
+E01015138,Plymouth 031D,LSOA,E06000026,4,Western,LSOA in Plymouth
+E01015139,Plymouth 031E,LSOA,E06000026,3,Western,LSOA in Plymouth
+E01015140,Plymouth 032E,LSOA,E06000026,5,Western,LSOA in Plymouth
+E01015141,Plymouth 031F,LSOA,E06000026,5,Western,LSOA in Plymouth
+E01015142,Plymouth 009B,LSOA,E06000026,2,Western,LSOA in Plymouth
+E01015143,Plymouth 009C,LSOA,E06000026,2,Western,LSOA in Plymouth
+E01015144,Plymouth 009D,LSOA,E06000026,1,Western,LSOA in Plymouth
+E01015145,Plymouth 014E,LSOA,E06000026,1,Western,LSOA in Plymouth
+E01015146,Plymouth 009E,LSOA,E06000026,1,Western,LSOA in Plymouth
+E01015147,Plymouth 006D,LSOA,E06000026,2,Western,LSOA in Plymouth
+E01015148,Plymouth 006E,LSOA,E06000026,2,Western,LSOA in Plymouth
+E01015149,Plymouth 009F,LSOA,E06000026,1,Western,LSOA in Plymouth
+E01015150,Plymouth 009G,LSOA,E06000026,2,Western,LSOA in Plymouth
+E01015151,Plymouth 029A,LSOA,E06000026,1,Western,LSOA in Plymouth
+E01015152,Plymouth 027C,LSOA,E06000026,1,Western,LSOA in Plymouth
+E01015153,Plymouth 029B,LSOA,E06000026,1,Western,LSOA in Plymouth
+E01015155,Plymouth 029C,LSOA,E06000026,1,Western,LSOA in Plymouth
+E01015156,Plymouth 027E,LSOA,E06000026,1,Western,LSOA in Plymouth
+E01015157,Plymouth 029D,LSOA,E06000026,1,Western,LSOA in Plymouth
+E01015158,Plymouth 029E,LSOA,E06000026,1,Western,LSOA in Plymouth
+E01015159,Plymouth 002B,LSOA,E06000026,2,Western,LSOA in Plymouth
+E01015160,Plymouth 001C,LSOA,E06000026,5,Western,LSOA in Plymouth
+E01015161,Plymouth 002C,LSOA,E06000026,2,Western,LSOA in Plymouth
+E01015162,Plymouth 002D,LSOA,E06000026,2,Western,LSOA in Plymouth
+E01015163,Plymouth 003D,LSOA,E06000026,3,Western,LSOA in Plymouth
+E01015164,Plymouth 001D,LSOA,E06000026,3,Western,LSOA in Plymouth
+E01015165,Plymouth 003E,LSOA,E06000026,4,Western,LSOA in Plymouth
+E01015166,Plymouth 002E,LSOA,E06000026,2,Western,LSOA in Plymouth
+E01015167,Plymouth 020C,LSOA,E06000026,2,Western,LSOA in Plymouth
+E01015168,Plymouth 020D,LSOA,E06000026,2,Western,LSOA in Plymouth
+E01015169,Plymouth 024A,LSOA,E06000026,2,Western,LSOA in Plymouth
+E01015170,Plymouth 024B,LSOA,E06000026,1,Western,LSOA in Plymouth
+E01015171,Plymouth 020E,LSOA,E06000026,1,Western,LSOA in Plymouth
+E01015172,Plymouth 029F,LSOA,E06000026,2,Western,LSOA in Plymouth
+E01015173,Plymouth 024C,LSOA,E06000026,2,Western,LSOA in Plymouth
+E01015174,Plymouth 024D,LSOA,E06000026,3,Western,LSOA in Plymouth
+E01015175,Plymouth 025C,LSOA,E06000026,2,Western,LSOA in Plymouth
+E01015176,Plymouth 021F,LSOA,E06000026,1,Western,LSOA in Plymouth
+E01015177,Plymouth 025D,LSOA,E06000026,2,Western,LSOA in Plymouth
+E01015178,Plymouth 025E,LSOA,E06000026,2,Western,LSOA in Plymouth
+E01015179,Plymouth 028B,LSOA,E06000026,3,Western,LSOA in Plymouth
+E01015180,Plymouth 028C,LSOA,E06000026,1,Western,LSOA in Plymouth
+E01015181,Plymouth 028D,LSOA,E06000026,1,Western,LSOA in Plymouth
+E01015182,Plymouth 028E,LSOA,E06000026,1,Western,LSOA in Plymouth
+E01015183,Torbay 017A,LSOA,E06000027,2,Southern,LSOA in Torbay
+E01015184,Torbay 017B,LSOA,E06000027,3,Southern,LSOA in Torbay
+E01015185,Torbay 017C,LSOA,E06000027,2,Southern,LSOA in Torbay
+E01015186,Torbay 017D,LSOA,E06000027,1,Southern,LSOA in Torbay
+E01015187,Torbay 017E,LSOA,E06000027,3,Southern,LSOA in Torbay
+E01015188,Torbay 017F,LSOA,E06000027,3,Southern,LSOA in Torbay
+E01015189,Torbay 017G,LSOA,E06000027,2,Southern,LSOA in Torbay
+E01015190,Torbay 013A,LSOA,E06000027,1,Southern,LSOA in Torbay
+E01015191,Torbay 013B,LSOA,E06000027,3,Southern,LSOA in Torbay
+E01015192,Torbay 013C,LSOA,E06000027,1,Southern,LSOA in Torbay
+E01015193,Torbay 013D,LSOA,E06000027,2,Southern,LSOA in Torbay
+E01015194,Torbay 013E,LSOA,E06000027,1,Southern,LSOA in Torbay
+E01015195,Torbay 013F,LSOA,E06000027,2,Southern,LSOA in Torbay
+E01015196,Torbay 013G,LSOA,E06000027,1,Southern,LSOA in Torbay
+E01015197,Torbay 016A,LSOA,E06000027,5,Southern,LSOA in Torbay
+E01015198,Torbay 016B,LSOA,E06000027,4,Southern,LSOA in Torbay
+E01015199,Torbay 016C,LSOA,E06000027,5,Southern,LSOA in Torbay
+E01015200,Torbay 016D,LSOA,E06000027,3,Southern,LSOA in Torbay
+E01015201,Torbay 016E,LSOA,E06000027,4,Southern,LSOA in Torbay
+E01015202,Torbay 012A,LSOA,E06000027,3,Southern,LSOA in Torbay
+E01015203,Torbay 012B,LSOA,E06000027,4,Southern,LSOA in Torbay
+E01015204,Torbay 012C,LSOA,E06000027,2,Southern,LSOA in Torbay
+E01015205,Torbay 012D,LSOA,E06000027,3,Southern,LSOA in Torbay
+E01015206,Torbay 012E,LSOA,E06000027,2,Southern,LSOA in Torbay
+E01015207,Torbay 009A,LSOA,E06000027,3,Southern,LSOA in Torbay
+E01015208,Torbay 019F,LSOA,E06000027,5,Southern,LSOA in Torbay
+E01015209,Torbay 019A,LSOA,E06000027,2,Southern,LSOA in Torbay
+E01015210,Torbay 007B,LSOA,E06000027,1,Southern,LSOA in Torbay
+E01015211,Torbay 009C,LSOA,E06000027,4,Southern,LSOA in Torbay
+E01015212,Torbay 007C,LSOA,E06000027,2,Southern,LSOA in Torbay
+E01015213,Torbay 007D,LSOA,E06000027,3,Southern,LSOA in Torbay
+E01015214,Torbay 006A,LSOA,E06000027,1,Southern,LSOA in Torbay
+E01015215,Torbay 006B,LSOA,E06000027,3,Southern,LSOA in Torbay
+E01015216,Torbay 006C,LSOA,E06000027,1,Southern,LSOA in Torbay
+E01015217,Torbay 008A,LSOA,E06000027,1,Southern,LSOA in Torbay
+E01015218,Torbay 006D,LSOA,E06000027,1,Southern,LSOA in Torbay
+E01015219,Torbay 015A,LSOA,E06000027,2,Southern,LSOA in Torbay
+E01015220,Torbay 015B,LSOA,E06000027,3,Southern,LSOA in Torbay
+E01015221,Torbay 015C,LSOA,E06000027,3,Southern,LSOA in Torbay
+E01015222,Torbay 015D,LSOA,E06000027,3,Southern,LSOA in Torbay
+E01015223,Torbay 015E,LSOA,E06000027,4,Southern,LSOA in Torbay
+E01015224,Torbay 011A,LSOA,E06000027,3,Southern,LSOA in Torbay
+E01015225,Torbay 011B,LSOA,E06000027,3,Southern,LSOA in Torbay
+E01015226,Torbay 011C,LSOA,E06000027,4,Southern,LSOA in Torbay
+E01015227,Torbay 011D,LSOA,E06000027,4,Southern,LSOA in Torbay
+E01015228,Torbay 011E,LSOA,E06000027,2,Southern,LSOA in Torbay
+E01015229,Torbay 014A,LSOA,E06000027,1,Southern,LSOA in Torbay
+E01015230,Torbay 011F,LSOA,E06000027,4,Southern,LSOA in Torbay
+E01015231,Torbay 014B,LSOA,E06000027,1,Southern,LSOA in Torbay
+E01015232,Torbay 014C,LSOA,E06000027,1,Southern,LSOA in Torbay
+E01015233,Torbay 014D,LSOA,E06000027,1,Southern,LSOA in Torbay
+E01015234,Torbay 014E,LSOA,E06000027,1,Southern,LSOA in Torbay
+E01015235,Torbay 014F,LSOA,E06000027,2,Southern,LSOA in Torbay
+E01015236,Torbay 002A,LSOA,E06000027,2,Southern,LSOA in Torbay
+E01015237,Torbay 002B,LSOA,E06000027,3,Southern,LSOA in Torbay
+E01015238,Torbay 002C,LSOA,E06000027,2,Southern,LSOA in Torbay
+E01015239,Torbay 002D,LSOA,E06000027,1,Southern,LSOA in Torbay
+E01015240,Torbay 005A,LSOA,E06000027,2,Southern,LSOA in Torbay
+E01015241,Torbay 005B,LSOA,E06000027,2,Southern,LSOA in Torbay
+E01015242,Torbay 005C,LSOA,E06000027,1,Southern,LSOA in Torbay
+E01015243,Torbay 005D,LSOA,E06000027,3,Southern,LSOA in Torbay
+E01015244,Torbay 018A,LSOA,E06000027,3,Southern,LSOA in Torbay
+E01015245,Torbay 018B,LSOA,E06000027,2,Southern,LSOA in Torbay
+E01015246,Torbay 018C,LSOA,E06000027,3,Southern,LSOA in Torbay
+E01015247,Torbay 018D,LSOA,E06000027,2,Southern,LSOA in Torbay
+E01015248,Torbay 018E,LSOA,E06000027,2,Southern,LSOA in Torbay
+E01015249,Torbay 003A,LSOA,E06000027,2,Southern,LSOA in Torbay
+E01015250,Torbay 003B,LSOA,E06000027,4,Southern,LSOA in Torbay
+E01015251,Torbay 003C,LSOA,E06000027,4,Southern,LSOA in Torbay
+E01015252,Torbay 003D,LSOA,E06000027,3,Southern,LSOA in Torbay
+E01015253,Torbay 003E,LSOA,E06000027,4,Southern,LSOA in Torbay
+E01015254,Torbay 003F,LSOA,E06000027,3,Southern,LSOA in Torbay
+E01015255,Torbay 008B,LSOA,E06000027,1,Southern,LSOA in Torbay
+E01015256,Torbay 008C,LSOA,E06000027,1,Southern,LSOA in Torbay
+E01015257,Torbay 004A,LSOA,E06000027,1,Southern,LSOA in Torbay
+E01015258,Torbay 004B,LSOA,E06000027,2,Southern,LSOA in Torbay
+E01015259,Torbay 004C,LSOA,E06000027,1,Southern,LSOA in Torbay
+E01015260,Torbay 004D,LSOA,E06000027,1,Southern,LSOA in Torbay
+E01015261,Torbay 008D,LSOA,E06000027,1,Southern,LSOA in Torbay
+E01015262,Torbay 001A,LSOA,E06000027,1,Southern,LSOA in Torbay
+E01015263,Torbay 001B,LSOA,E06000027,1,Southern,LSOA in Torbay
+E01015264,Torbay 001C,LSOA,E06000027,3,Southern,LSOA in Torbay
+E01015265,Torbay 001D,LSOA,E06000027,2,Southern,LSOA in Torbay
+E01015266,Torbay 001E,LSOA,E06000027,1,Southern,LSOA in Torbay
+E01015267,Torbay 010A,LSOA,E06000027,1,Southern,LSOA in Torbay
+E01015268,Torbay 010B,LSOA,E06000027,2,Southern,LSOA in Torbay
+E01015269,Torbay 010C,LSOA,E06000027,2,Southern,LSOA in Torbay
+E01015270,Torbay 010D,LSOA,E06000027,1,Southern,LSOA in Torbay
+E01015271,Torbay 010E,LSOA,E06000027,4,Southern,LSOA in Torbay
 E02003122,Plymouth 001,MSOA,E06000026,4,Western,MSOA in Plymouth
 E02003123,Plymouth 002,MSOA,E06000026,2,Western,MSOA in Plymouth
 E02003124,Plymouth 003,MSOA,E06000026,2,Western,MSOA in Plymouth
@@ -993,33 +975,51 @@ Northern,Northern LCP,Local Care Partnership,E10000008,,,Locality area covering 
 Southern,Southern LCP,Local Care Partnership,E10000008,,,Locality area covering southern Devon and Torbay
 Western,Western LCP,Local Care Partnership,E10000008,,,Locality area covering western Devon and Plymouth
 BarnstaplePCN,Barnstaple Alliance PCN,Primary Care Network,E10000008,,,Primary Care Network in North Devon
-BaywidePCN,Baywide PCN,,,,,Primary Care Network in Torbay
-BeaconPCN,Beacon Medical Group PCN,,,,,Primary Care Network in South Hams
-BrixhamPaigntonPCN,Brixham & Paignton PCN,,,,,Primary Care Network in Torbay
-CityPCN,City PCN,,,,,Primary Care Network in Exeter
-CoastalPCN,Coastal PCN,,,,,Primary Care Network in Teignbridge
-CulmValleyPCN,Culm Valley PCN,,,,,Primary Care Network in Mid Devon
-DrakePCN,Drake Medical Alliance PCN,,,,,Primary Care Network in Plymouth and South Hams
-FoxhayesStThomasPCN,Foxhayes and St Thomas PCN,,,,,Primary Care Network in Exeter and Teignbridge
-HolsworthyBudePCN,"Holsworthy, Bude and Surrounding Villages PCN",,,,,Primary Care Network in Torridge and North Cornwall
-HOSMSPCN,HOSMS PCN,,,,,Primary Care Network in East Devon
-MayflowerPCN,Mayflower PCN,,,,,Primary Care Network in Plymouth
-MewstonePCN,Mewstone PCN,,,,,Primary Care Network in Plymouth and South Hams
-MidDevonPCN,Mid Devon Healthcare PCN,,,,,Primary Care Network in central Devon
-NewtonWestPCN,Newton West PCN,,,,,Primary Care Network in Teignbridge
-NEXUSPCN,NEXUS PCN,,,,,Primary Care Network in Exeter
-NorthDartmoorPCN,North Dartmoor PCN,,,,,Primary Care Network in West Devon
-NorthDevonCoastalPCN,North Devon Coastal PCN,,,,,Primary Care Network in North Devon
-OuterExeterPCN,Outer Exeter PCN,,,,,"Primary Care Network in Exeter, East Devon and Teignbridge"
-PathfieldsPCN,Pathfields PCN,,,,,Primary Care Network in Plymouth
-SoundPCN,Sound PCN,,,,,Primary Care Network in Plymouth
-SouthDartmoorTotnesPCN,South Dartmoor & Totnes PCN,,,,,Primary Care Network in South Hams
-SouthHamsPCN,South Hams PCN,,,,,Primary Care Network in South Hams
-TASCPCN,TASC PCN,,,,,Primary Care Network in East Devon
-TemplerSquarePCN,Templer Square Network PCN,,,,,Primary Care Network in Teignbridge
-TivertonPCN,Tiverton PCN,,,,,Primary Care Network in Mid Devon
-TorquayPCN,Torquay PCN,,,,,Primary Care Network in Torbay
-TorridgePCN,Torridge PCN,,,,,Primary Care Network in Torridge
-WatersidePCN,Waterside PCN,,,,,Primary Care Network in Plymouth
-WEBPCN,WEB PCN,,,,,Primary Care Network in East Devon
-WestDevonPCN,West Devon PCN,,,,,Primary Care Network in West Devon
+BaywidePCN,Baywide PCN,Primary Care Network,E10000008,,,Primary Care Network in Torbay
+BeaconPCN,Beacon Medical Group PCN,Primary Care Network,E10000008,,,Primary Care Network in South Hams
+BrixhamPaigntonPCN,Brixham & Paignton PCN,Primary Care Network,E10000008,,,Primary Care Network in Torbay
+CityPCN,City PCN,Primary Care Network,E10000008,,,Primary Care Network in Exeter
+CoastalPCN,Coastal PCN,Primary Care Network,E10000008,,,Primary Care Network in Teignbridge
+CulmValleyPCN,Culm Valley PCN,Primary Care Network,E10000008,,,Primary Care Network in Mid Devon
+DrakePCN,Drake Medical Alliance PCN,Primary Care Network,E10000008,,,Primary Care Network in Plymouth and South Hams
+FoxhayesStThomasPCN,Foxhayes and St Thomas PCN,Primary Care Network,E10000008,,,Primary Care Network in Exeter and Teignbridge
+HolsworthyBudePCN,Holsworthy Bude and Surrounding Villages PCN,Primary Care Network,E10000008,,,Primary Care Network in Torridge and North Cornwall
+HOSMSPCN,HOSMS PCN,Primary Care Network,E10000008,,,Primary Care Network in East Devon
+MayflowerPCN,Mayflower PCN,Primary Care Network,E10000008,,,Primary Care Network in Plymouth
+MewstonePCN,Mewstone PCN,Primary Care Network,E10000008,,,Primary Care Network in Plymouth and South Hams
+MidDevonPCN,Mid Devon Healthcare PCN,Primary Care Network,E10000008,,,Primary Care Network in central Devon
+NewtonWestPCN,Newton West PCN,Primary Care Network,E10000008,,,Primary Care Network in Teignbridge
+NEXUSPCN,NEXUS PCN,Primary Care Network,E10000008,,,Primary Care Network in Exeter
+NorthDartmoorPCN,North Dartmoor PCN,Primary Care Network,E10000008,,,Primary Care Network in West Devon
+NorthDevonCoastalPCN,North Devon Coastal PCN,Primary Care Network,E10000008,,,Primary Care Network in North Devon
+OuterExeterPCN,Outer Exeter PCN,Primary Care Network,E10000008,,,"Primary Care Network in Exeter, East Devon and Teignbridge"
+PathfieldsPCN,Pathfields PCN,Primary Care Network,E10000008,,,Primary Care Network in Plymouth
+SoundPCN,Sound PCN,Primary Care Network,E10000008,,,Primary Care Network in Plymouth
+SouthDartmoorTotnesPCN,South Dartmoor & Totnes PCN,Primary Care Network,E10000008,,,Primary Care Network in South Hams
+SouthHamsPCN,South Hams PCN,Primary Care Network,E10000008,,,Primary Care Network in South Hams
+TASCPCN,TASC PCN,Primary Care Network,E10000008,,,Primary Care Network in East Devon
+TemplerSquarePCN,Templer Square Network PCN,Primary Care Network,E10000008,,,Primary Care Network in Teignbridge
+TivertonPCN,Tiverton PCN,Primary Care Network,E10000008,,,Primary Care Network in Mid Devon
+TorquayPCN,Torquay PCN,Primary Care Network,E10000008,,,Primary Care Network in Torbay
+TorridgePCN,Torridge PCN,Primary Care Network,E10000008,,,Primary Care Network in Torridge
+WatersidePCN,Waterside PCN,Primary Care Network,E10000008,,,Primary Care Network in Plymouth
+WEBPCN,WEB PCN,Primary Care Network,E10000008,,,Primary Care Network in East Devon
+WestDevonPCN,West Devon PCN,Primary Care Network,E10000008,,,Primary Care Network in West Devon
+E07000040,East Devon,District,E10000008,4,Eastern,District council area in Devon
+E07000041,Exeter,District,E10000008,3,Eastern,District council area in Devon
+E07000042,Mid Devon,District,E10000008,3,Eastern,District council area in Devon
+E07000043,North Devon,District,E10000008,3,Northern,District council area in Devon
+E07000044,South Hams,District,E10000008,4,,District council area in Devon
+E07000045,Teignbridge,District,E10000008,3,,District council area in Devon
+E07000046,Torridge,District,E10000008,2,Northern,District council area in Devon
+E07000047,West Devon,District,E10000008,3,Western,District council area in Devon
+E10000008,Devon,County,E12000009,,,County Council area
+E06000026,Plymouth,Unitary,E12000009,,Western,Unitary Council area
+E06000027,Torbay,Unitary,E12000009,,Southern,Unitary Council area
+IMDQ1,Q1 - Most Deprived,IMD Quintile,,,,Deprivation quintile
+IMDQ2,Q2 - Above Average,IMD Quintile,,,,Deprivation quintile
+IMDQ3,Q3 - Average,IMD Quintile,,,,Deprivation quintile
+IMDQ4,Q4 - Below Average,IMD Quintile,,,,Deprivation quintile
+IMDQ5,Q5 - Least Deprived,IMD Quintile,,,,Deprivation quintile
+E92000001,England,Country,,,,Country
+E12000009,South West,Region,E92000001,,,Region
