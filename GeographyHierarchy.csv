@@ -148,6 +148,11 @@ E01020037,Exeter 007C,LSOA,E07000041,1,Eastern,"LSOA covering Whipton, Hillyfiel
 E01020038,Exeter 011E,LSOA,E07000041,5,Eastern,LSOA covering Gallows Bridge Area
 E01020039,Exeter 007D,LSOA,E07000041,1,Eastern,LSOA covering Whipton - Leypark Road and Bramley Avenue area
 E01020040,Exeter 007E,LSOA,E07000041,3,Eastern,LSOA covering Sweetbrier Lane area
+E01033232,Exeter 011F,LSOA,E07000041,4,Eastern,LSOA covering Exeter: Digby and Sowton - Kings Heath
+E01033233,Exeter 001F,LSOA,E07000041,5,Eastern,LSOA covering Exeter: Duryard - University and West Garth Road areas
+E01033234,Exeter 011G,LSOA,E07000041,5,Eastern,LSOA covering Exeter: Digby and Sowton - Clyst Heath and Sowton
+E01033235,Exeter 015E,LSOA,E07000041,5,Eastern,LSOA covering Exeter: Topsham - High Street and Station Road areas
+E01033236,Exeter 015F,LSOA,E07000041,5,Eastern,"LSOA covering Exeter: Topsham - Victoria Road, Monmouth Street and Mount Howe areas"
 E01020041,Mid Devon 011A,LSOA,E07000042,2,Eastern,"LSOA covering Crediton: East Street, Park Road, Fordton and surrounding areas"
 E01020042,Mid Devon 011B,LSOA,E07000042,5,Eastern,LSOA covering Crediton: East Town
 E01020043,Mid Devon 008A,LSOA,E07000042,4,Eastern,"LSOA covering Bradninch, Hele and surrounding areas"
@@ -451,13 +456,6 @@ E01020340,West Devon 004D,LSOA,E07000047,3,Western,"LSOA covering Lifton, Stowfo
 E01020341,West Devon 006C,LSOA,E07000047,4,Western,LSOA covering Areas South East of Tavistock including parts of Horrabridge and Yelverton (Harrowbeer)
 E01020342,West Devon 006D,LSOA,E07000047,3,Western,LSOA covering Horrabridge
 E01032628,East Devon 004G,LSOA,E07000040,4,Eastern,"LSOA covering Areas West of Honiton and North of West Hill including Buckerell, Fairmile and surrounding areas"
-E01032657,Plymouth 027F,LSOA,E06000026,3,Western,LSOA covering Plymouth LSOA
-E01032658,Plymouth 027G,LSOA,E06000026,1,Western,LSOA covering Plymouth LSOA
-E01033232,Exeter 011F,LSOA,E07000041,4,Eastern,LSOA covering Exeter: Digby and Sowton - Kings Heath
-E01033233,Exeter 001F,LSOA,E07000041,5,Eastern,LSOA covering Exeter: Duryard - University and West Garth Road areas
-E01033234,Exeter 011G,LSOA,E07000041,5,Eastern,LSOA covering Exeter: Digby and Sowton - Clyst Heath and Sowton
-E01033235,Exeter 015E,LSOA,E07000041,5,Eastern,LSOA covering Exeter: Topsham - High Street and Station Road areas
-E01033236,Exeter 015F,LSOA,E07000041,5,Eastern,"LSOA covering Exeter: Topsham - Victoria Road, Monmouth Street and Mount Howe areas"
 E01015023,Plymouth 003A,LSOA,E06000026,1,Western,LSOA in Plymouth
 E01015024,Plymouth 004A,LSOA,E06000026,3,Western,LSOA in Plymouth
 E01015025,Plymouth 001A,LSOA,E06000026,5,Western,LSOA in Plymouth
@@ -617,6 +615,8 @@ E01015179,Plymouth 028B,LSOA,E06000026,3,Western,LSOA in Plymouth
 E01015180,Plymouth 028C,LSOA,E06000026,1,Western,LSOA in Plymouth
 E01015181,Plymouth 028D,LSOA,E06000026,1,Western,LSOA in Plymouth
 E01015182,Plymouth 028E,LSOA,E06000026,1,Western,LSOA in Plymouth
+E01032657,Plymouth 027F,LSOA,E06000026,3,Western,LSOA in Plymouth
+E01032658,Plymouth 027G,LSOA,E06000026,1,Western,LSOA in Plymouth
 E01015183,Torbay 017A,LSOA,E06000027,2,Southern,LSOA in Torbay
 E01015184,Torbay 017B,LSOA,E06000027,3,Southern,LSOA in Torbay
 E01015185,Torbay 017C,LSOA,E06000027,2,Southern,LSOA in Torbay
